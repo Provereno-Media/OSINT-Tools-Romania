@@ -2,7 +2,7 @@
 <img src="https://flagcdn.com/w320/ro.png" alt="Romania_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Romania. Most of the resources and tools has versions in Romanian; some in English (and Hungarian for parts of the Official Gazette). Access to the beneficial-ownership register kept by the Trade Register Office (ONRC) has been limited since May 2025 (Law 86/2025 amending Law 129/2019, following CJEU judgment C-37/20 and C-601/20 of 22 November 2022): applicants must show a legitimate interest, so UBO data is not openly searchable. The public platforms of the cadastre agency ANCPI (Geoportal, owners' register) have been offline since a cyberattack in July 2026; as of late September 2026 the e-Terra system was back for professionals only. Check its status before relying on cadastral data. Many Romanian state websites block automated access, so open links in a normal browser.
 
-**Last Updated:** 2026-10-12
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Romania?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
